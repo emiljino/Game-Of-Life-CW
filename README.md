@@ -1,4 +1,4 @@
-# Link to report: [GoLCW.pdf](https://github.com/emiljino/Machine-Learning-Coursework/blob/main/cw_hk20234.pdf)
+# Link to report: [GameOfLifeCW.pdf](https://github.com/emiljino/Game-Of-Life-CW/blob/main/report.pdf)
 
 
 # Game-Of-Life-CW
